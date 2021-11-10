@@ -1,10 +1,2 @@
-# ime6400test
-this is a description.
+# Amazin' Cache Clearing Chrome Extension
 
-
-# is this an h1 tag?
-
-## is this an h2 tag?
-
-**bold**
-*italic*
